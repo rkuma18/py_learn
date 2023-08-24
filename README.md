@@ -24,5 +24,4 @@ python bst.py
 ```
 
 ## Author
-
 Roushan Kumar
