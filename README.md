@@ -26,5 +26,3 @@ python bst.py
 ## Author
 
 Roushan Kumar
-
-Let me know if you would like me to modify or expand the README in any way!
