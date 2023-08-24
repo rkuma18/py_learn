@@ -18,8 +18,8 @@ Feel free to browse through the code to get an idea of my learning journey! I wi
 The programs are written in Python 3 and above. To run them, simply clone the repository and execute the .py files. Make sure you have Python 3 installed on your system.
 
 ```
-git clone https://github.com/<your-username>/python-learning.git
-cd python-learning
+git clone https://github.com/rkuma18/py_learn.git
+cd py_learn
 python bst.py
 ```
 
