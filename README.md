@@ -6,6 +6,8 @@ This repository contains Python programs I have written while learning the langu
 
 - Binary search tree
   - bst.py: Implements a binary search tree data structure and operations like insertion, search, deletion, etc.
+- Article Views I
+  - Article_Views_I: Find all the authors that viewed at least one of their own articles. Return the result table sorted by id in ascending order.
 
 ## About
 
