@@ -8,6 +8,8 @@ This repository contains Python programs I have written while learning the langu
   - bst.py: Implements a binary search tree data structure and operations like insertion, search, deletion, etc.
 - Article Views I
   - Article_Views_I: Find all the authors that viewed at least one of their own articles. Return the result table sorted by id in ascending order.
+ - Invalid Tweet
+   - Invalid_tweet.py: Find the IDs of the invalid tweets. The tweet is invalid if the number of characters used in the content of the tweet is strictly greater than 15.
 
 ## About
 
