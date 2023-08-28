@@ -30,5 +30,5 @@ python bst.py
 ## Author
 Roushan Kumar
 
-## last Update
+Last Update
 28 - 08 - 2023
